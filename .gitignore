@@ -1,0 +1,9 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore the secret environment variables file
+.env
+
+# Ignore Python's temporary cache folders (keeps your repo clean)
+__pycache__/
+*.pyc
