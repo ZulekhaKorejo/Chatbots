@@ -1,7 +1,6 @@
 import os
 from dotenv import load_dotenv
 from langchain.chat_models import init_chat_model
-from google.api_core.exceptions import ResourceExhausted
 from langchain_google_genai.chat_models import ChatGoogleGenerativeAIError
 from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
 
