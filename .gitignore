@@ -12,4 +12,4 @@ __pycache__/
 instructions/
 
 # Ignore the requirements file (ensure the extension is correct)
-requirements.txt
+requirements.text
