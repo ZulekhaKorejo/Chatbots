@@ -7,5 +7,7 @@
 # Ignore Python's temporary cache folders (keeps your repo clean)
 __pycache__/
 *.pyc
-instructions
+
+instructions/
+
 requirements.text
