@@ -8,6 +8,8 @@
 __pycache__/
 *.pyc
 
+# Ignore the instructions directory
 instructions/
 
-requirements.text
+# Ignore the requirements file (ensure the extension is correct)
+requirements.txt
